@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recruiter Space</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1> Automated Resume Screening  <h1>
+            <h1>       &<h1>
+                <h1> Matching Agent <h1>
+    </div>
+    <div class="container" >
+        <h2>Recruiter Space</h2>
+        <form id="recruitmentForm"  action="http://localhost:5000/upload_resumes" method="post" enctype="multipart/form-data">
+            <label for="position">Position:</label>
+            <input type="text" id="position" name="position" required>
+
+            <label for="experience">Experience Required (in years):</label>
+            <input type="number" id="experience" name="experience" required>
+
+            <label for="techStack">Tech Stack Required:</label>
+            <input type="text" id="techStack" name="techStack" required>
+
+            <label for="fileUpload">Upload All Resume (PDF):</label>
+            <input type="file" id="fileUpload" name="fileUpload" accept=".pdf" required>
+
+            <button type="submit">Submit</button>
+        </form>
+    </div>
+</body>
+</html>

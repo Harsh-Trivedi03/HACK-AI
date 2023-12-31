@@ -6,7 +6,7 @@
 **Automated Resume Screening and Matching Agent** is a groundbreaking tool that revolutionizes the process of resume screening and job matching. Using state-of-the-art **Natural Language Processing (NLP)** and **Machine Learning** using **ChatGPT 4.0**, this tool streamlines the hiring process by intelligently analyzing job requirements and assessing resumes. Built with the innovative uagents library from fetch.ai, it offers a comprehensive solution for efficient resume processing.
 ## Glimpse
 <img src="https://pbs.twimg.com/media/GCXltftWkAAIjtz?format=jpg&name=large" width="600px" alt="Automated Resume Screening - Interface">
-<img src="https://pbs.twimg.com/media/GCXlximXYAA0RWM?format=jpg&name=medium" width="400px" alt="Resume Matching Process">
+<img src="https://pbs.twimg.com/media/GCXlximXYAA0RWM?format=jpg&name=medium" width="200px" alt="Resume Matching Process">
 
 ##  🚀 Getting Started
 Follow these simple steps to get a local copy up and running:

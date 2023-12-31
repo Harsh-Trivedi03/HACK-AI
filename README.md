@@ -54,4 +54,3 @@ Your contributions and feedback are invaluable to us! 🌟
 Crafted with ❤️ by Team 10xers.
 ```
 
-This version includes emojis for visual appeal, section-wise highlighting, and a more engaging tone. You can further customize it with your personal or team name at the end and by adding any additional sections that might be relevant to your project.
